@@ -69,3 +69,6 @@ Contribuciones
 Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambios mayores antes de enviar un pull request.
 Licencias
 No aplica
+
+![image](https://github.com/user-attachments/assets/d7cc5132-b136-4e8a-a3c6-fd370cc6e238)
+

@@ -16,17 +16,8 @@ Python 3.7+
 pip (gestor de paquetes de Python)
 
 Instalación
+Ve a esta URL: https://huggingface.co/spaces/ElDoctor/translate
 
-Clonar el repositorio:
-Copygit clone [URL_DEL_REPOSITORIO]
-cd chatbot-traduccion-avanzado
-
-Instalar las dependencias:
-Copypip install gradio deep_translator sqlite3
-
-(Opcional) Configurar la clave API de Google Translate:
-Copyexport GOOGLE_TRANSLATE_API_KEY=tu_clave_api_aqui
-Nota: Si no se configura, el chatbot utilizará la versión gratuita con límites de uso.
 
 Estructura del proyecto
 Copychatbot-traduccion-avanzado/
